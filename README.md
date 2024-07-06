@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avniagarwal
 - 👀 My areas of expertise: SpringBoot Backend, MERN Stack
-- 🌱 I’m currently learning working at Libsys Ltd. as Software Engineer 
+- 🌱 I’m currently working at Libsys Ltd. as Software Engineer 
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me avni111agarwal@gmail.com
 
