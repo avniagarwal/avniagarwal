@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avniagarwal
-- 👀 I am a SpringBoot Backend Developer and I know MERN stack as well
+- 👀 My areas of expertise: SpringBoot Backend, MERN Stack
 - 🌱 I’m currently learning working at Libsys Ltd. as Software Engineer 
 - 💞️ I’m looking to collaborate on Web development projects.
 - 📫 How to reach me avni111agarwal@gmail.com
